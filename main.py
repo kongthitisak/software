@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.write(" ฐิติศักดิ์ ตุ้ยจันทร์ ")
+x.header(" ฐิติศักดิ์ ตุ้ยจันทร์ ")
+x.write(" 64545202005-2")
